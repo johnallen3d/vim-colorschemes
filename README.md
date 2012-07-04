@@ -12,6 +12,8 @@ file are included.
 
 for hacking on vim.org harvesting see the branch [prep](https://github.com/flazz/vim-colorschemes/tree/prep).
 
+for terminal vim that support 256 colors (ex. iTerm2) [try this plugin](https://github.com/vim-scripts/colorsupport.vim) for making gvim specific themes more compatible.
+
 Installation
 ------------
 
@@ -41,7 +43,7 @@ pull request!; I'll take it!
 Previews
 ------------------------
 
-many of the themes here are listed [here](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html)
+many of the themes here are listed [here](http://vimcolorschemetest.googlecode.com/svn/html/index-html.html). in addition the [colorsupport.vim](https://github.com/vim-scripts/colorsupport.vim) plugin has great features fore previewing colors.
 
 Current colorschemes
 --------------------
